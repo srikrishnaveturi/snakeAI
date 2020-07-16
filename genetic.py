@@ -40,16 +40,6 @@ def move(direction):
     elif direction == "right":
         snakeList[0][0]+=15
 
-def check(x,y):
-    global snakeList,treatX1,treatY1
-    if [x,y] in snakeList:
-        return -1
-    elif x == treatX1 and y == treatY1:
-        return 1
-    elif x < 0 or x > 300 or y < 0 or y > 300:
-        return -1
-    else:
-        return 0
 
 def observations(dir):
     #print("in observations {}".format(dir))
