@@ -21,4 +21,4 @@ now, we have 50% of the next generation ready, the other 50% we will make random
 
 We keep repeating this procedure until we see a snake which knows that running into walls and itself is bad but if an apple is near a wall, it should go towards the apple and then turn so as to not die
 
-And there you have it, the snaked have also learned "an apple a day keeps a doctor away".
+And there you have it, the snakes have also learned "an apple a day keeps a doctor away".
