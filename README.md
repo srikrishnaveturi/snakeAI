@@ -1,4 +1,4 @@
-# snakeAI(under development)
+# snakeAI
 Using genetic algorithms to make the ai smarter. the snake game repository has all the code for the basic game.
 Sit back and watch your AI become smarter and smarter. Genetic algorithms in action
 
